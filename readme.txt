@@ -5,7 +5,9 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 i love github. git remote add origin ME!!!
 
-Creating a new branch is quick && simple.
+Creating a new branch is quick & simple.
+
+tk wan GIT
 
 
 
